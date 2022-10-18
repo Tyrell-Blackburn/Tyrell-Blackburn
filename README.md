@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building JXA automation tools for macOS workflows
-- 🌱 I’m currently learning about Shopify
+- 🔭 I’m currently building Bash automation scripts for the TV industry
+- 🌱 I’m currently learning about Shopify, JS, and React.js
 - 💬 Ask me about JS, React, and 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 📫 How to reach me: ... -->
+<!-- - 👯 I’m looking for a full-time dev job ... -->
+<!-- - 🤔 I’m looking for help with bash scripting or JS projects -->
+<!-- - 📫 How to reach me: < website to come > -->
