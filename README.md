@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building a React.js app
-- 🌱 I’m currently learning about React.js and jQuery
-- 💬 Ask me about JS
-- 👯 I’m looking for a full-time dev job
-- 📫 How to reach me: < website to come >
+- 🔭 I’m currently loving React.js and Tanstack Router
+- 🌱 I’m currently learning about TypeScript
+- 💬 Ask me about JS and React
+- 👯 I’m looking for a remote full-time dev job
+- 📫 How to reach me: [tyrellblackburn.com]
