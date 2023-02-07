@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently loving React.js and Tanstack Router
-- 🌱 I’m currently learning about TypeScript
+- 👯 I’m current looking for a full-time Junior Front-end Engineer role.
+
+- 🔭 I’m loving React.js and Tanstack Router
+- 🌱 I’m learning TypeScript
 - 💬 Ask me about JS and React
-- 👯 I’m looking for a remote full-time dev job
-- 📫 How to reach me: [tyrellblackburn.com](https://www.tyrellblackburn.com)
+- 📫 Reach me at: [tyrellblackburn.com](https://www.tyrellblackburn.com)
