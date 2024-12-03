@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m current looking for a Frontend Engineer role.
-- 🔭 I’m loving React.js and Typescript
-- 🌱 I’m learning TypeScript with React, Storybook, and API development for Node.js
+- 👯 I’m current open to Frontend or Fullstack roles.
+- 🔭 I’m loving React.js and Typescript.
+- 🌱 I’m learning TypeScript with React, Storybook, and API development.
 - 📫 Reach me at: [www.tyrellblackburn.com](https://www.tyrellblackburn.com)
